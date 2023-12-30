@@ -11,15 +11,24 @@
 
 現推出免費兌換50G套餐（一個月），進官方社群，領取兌換碼。
 
+## 社群
+
+
+> Facebook：https://www.facebook.com/groups/385520427266227/
+
+
+> Telegram：https://t.me/+PUsqt8T9uXFjZTgx  進不了群的聯繫群主飛機：@TaiSafe
+
+
 ## 簡介
 
-台北團隊開發營運，助力台人西進工作生活。
+- 台北團隊開發營運，助力台人西進工作生活。
 
-如果本項目對您有用，請不要吝嗇你的Star。
+- 如果本項目對您有用，請不要吝嗇你的Star。
 
 ### 優勢
 
-- 全中轉節點，V2ray、Trojan、hysteria2協議，隧道加密，私密性極好。
+- 全中轉節點，V2ray、Trojan、Hysteria2協議，隧道加密，私密性極好。
 - 無需配置，一鍵連接，簡單好用。
 - 全台10多個家用寬帶節點，解鎖所有服務（Netflix、ChatGPT等）。
 - 支援全系統轉發，UDP轉發，遊戲黨和工作軟體必備。
@@ -33,11 +42,7 @@
 
 - [官方永久地址](https://www.taisafe.us)
 
-## 社群
 
-> Telegram：https://t.me/+PUsqt8T9uXFjZTgx  進不了群的聯繫群主飛機：@TaiSafe
-
-> Facebook：https://www.facebook.com/groups/385520427266227/
 
 ## 程式下載(請到官網下載)
 
